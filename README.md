@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
 
-# Arka Host
+# Host Provider
 Arka host is a static html portfolio template build with bootstrap, jQuery and designed for any web hosting provider website. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations with all weather update.
 
 ## Live demo
